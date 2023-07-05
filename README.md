@@ -1,3 +1,3 @@
 # TheRepo
 Another repository
-A comment and does not have branches right now.
+This is the first branch of our repository.
